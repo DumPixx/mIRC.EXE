@@ -1,0 +1,9 @@
+v0.0 - The first version. The game was created. It was version released on 17.11.2020
+v0.1 - Game was ready to be released. It version was released on 28.11.2020
+v0.5 - Fixed some bugs and glitches. It version was released on 01.12.2020
+v0.9 - Added endings. It was version released on 04.12.2020
+v1.0 - Added new part of history. It version was released on 08.12.2020
+v1.5 - The title and color of console will change after entering any page. It version was released on 10.12.2020
+v1.9 - The game was complete. It version was released on 14.12.2020
+v2.0 - Fixed some bugs, errors and glitches. It version was released on 17.12.2020
+v2.9 - Finally update!!!! Here's the end, and if you'll pass deeper, you'll open something special... am i right? :) It version was released on 15.09.2021
